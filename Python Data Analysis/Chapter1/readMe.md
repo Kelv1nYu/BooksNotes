@@ -7,4 +7,6 @@
 * IPython: 该库为Python提供了强大的交互式Shell，也为Jupyter提供了内核，同时还支持交互式数据可视化功能。
 * Jupyter Notebook: 提供一个基于Web的交互式Shell，可以创建和共享支持可实时代码和可视化的文档。
 
-![image]
+### 有用的思维导图
+
+![image](https://github.com/Kelv1nYu/BooksNotes/blob/master/Python%20Data%20Analysis/Chapter1/image/IMG_0003.JPG)
